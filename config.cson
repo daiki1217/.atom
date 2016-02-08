@@ -1,0 +1,13 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "58594f73-adb8-0aeb-22c5-d1a7c95226e9"
+  minimap: {}
+  welcome:
+    showOnStartup: false
