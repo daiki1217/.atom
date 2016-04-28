@@ -1,6 +1,11 @@
 "*":
-  core: {}
+  core:
+    themes: [
+      "one-dark-ui"
+      "kobalt"
+    ]
   editor:
+    fontSize: 13
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
